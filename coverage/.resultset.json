@@ -1,0 +1,43 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/Velazquez/Projects/Crowdint/show-dont-tell-mutant2/lib/universe.rb": [
+        1,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1399485666
+  }
+}
